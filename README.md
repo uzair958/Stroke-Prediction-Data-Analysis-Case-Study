@@ -6,4 +6,4 @@ SKILLS USED:
  MYSQL
  TABELUE
 
-This case study is the part of Google Data Analytics Specialization 
+I have completed this case study to showcase my skills acquired in Google data analytics specialization.
