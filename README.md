@@ -6,4 +6,4 @@ SKILLS USED:
  MYSQL
  TABELUE
 
-I have completed this case study to showcase my skills acquired in Google data analytics specialization.
+I have completed this case study along with the contribution of Abdurrahman126 to showcase my skills acquired in Google data analytics specialization.
